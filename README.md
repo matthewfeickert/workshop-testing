@@ -1,1 +1,1 @@
-# pixi-cuda-lesson
+# workshop-testing
